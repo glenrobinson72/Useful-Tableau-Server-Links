@@ -72,6 +72,9 @@ http://www.tableau.com/about/blog
 https://community.tableau.com/community/forums/server-administration
 https://camsoe.com/
 
+Tableau Server Processes
+http://databoss.starschema.net/building-faster-dashboards-by-understanding-tableau-server/
+
 
 Certification
 
