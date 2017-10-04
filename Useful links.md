@@ -120,3 +120,7 @@ https://www.linkedin.com/pulse/listing-all-available-tableau-web-data-connectors
 Undocumented API
 
 https://viziblydiffrnt.wordpress.com/2016/12/14/tableaus-undocumented-api-made-easy-with-python/
+
+Tableau Server Hardening Recommendations
+https://onlinehelp.tableau.com/current/server/en-us/security_harden.htm
+
