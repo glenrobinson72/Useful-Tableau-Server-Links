@@ -31,6 +31,9 @@ http://www.tableau.com/about/blog/2015/10/introducing-tabmon-44911
 
 http://tableaulove.com/tabmon-is-a-detective-for-tableau-server/
 
+TABMON Metrics
+https://tableaulove.com/tabmon-is-like-a-fitbit-for-your-tableau-server/
+
 
 
 Tableau Server Permissions Audit
@@ -123,4 +126,7 @@ https://viziblydiffrnt.wordpress.com/2016/12/14/tableaus-undocumented-api-made-e
 
 Tableau Server Hardening Recommendations
 https://onlinehelp.tableau.com/current/server/en-us/security_harden.htm
+
+
+
 
