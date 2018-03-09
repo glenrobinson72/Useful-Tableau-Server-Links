@@ -90,6 +90,9 @@ https://camsoe.com/
 
 http://www.lbk.io/
 
+https://jakesviz.wordpress.com
+
+
 Tableau Server Processes
 http://databoss.starschema.net/building-faster-dashboards-by-understanding-tableau-server/
 
